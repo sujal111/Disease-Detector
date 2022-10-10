@@ -1,7 +1,8 @@
 
 # Welcome to my Project/Product  👋
 
-## Project Name: Dance Home Page
+## Project Name: Disease Detector
+Project Link : https://devfolio.co/projects/disease-detector-fbb6
 
 ---
 
